@@ -10,8 +10,6 @@ def count_odd_even(numbers):
     
     return odd_count, even_count
 
-
-# Example usage
 number_list = [2, 3, 4, 55, 56, 78, 75, 69, 66, 101, 100]
 odd, even = count_odd_even(number_list)
 
